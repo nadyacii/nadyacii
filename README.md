@@ -153,10 +153,10 @@ I enjoy exploring datasets, building analytical projects, creating visualization
 
 </div>
 
-### 📊 Data Science — Independent Study Batch 7
+### 📊 Independent Study Batch 7 - Data Science : Greener Future with Data Driven Solution
 **Startup Campus | Sep 2024 – Dec 2024**
 
-Completed an intensive Data Science program focused on **data analysis, data preparation, SQL, Python, machine learning, and data visualization**. Worked on practical projects and learned to manage data from preparation to insight generation and data-driven solutions.
+Completed an intensive Data Science program focused on **data analysis, data preparation, SQL, Python, machine learning, and data visualization**. Worked on final projects and learned to manage data from preparation to insight generation and data-driven solutions.
 
 **Skills:** Python • SQL • Data Analysis • Machine Learning • Data Visualization
 
@@ -171,7 +171,7 @@ Completed a four-week project-based internship covering **business understanding
 
 ---
 
-### 💻 Administrator Intern — Infrastructure Operation Access Network (IOAN)
+### 💻 Administrator Intern — Infrastructure Operation Access Network (IOAN) Divison
 **PT Telkom Akses | Jan 2025 – Feb 2025**
 
 Supported administrative and operational activities within the **Infrastructure Operation Access Network (IOAN)** division, including data management, documentation, and administrative support.
