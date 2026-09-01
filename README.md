@@ -328,23 +328,17 @@ As a Data Science Track Leader, I led class leaders and vice leaders through biw
   <a href="https://www.linkedin.com/in/nadiacikr">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://canva.link/tdaao7vj6lqvy4a">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-E75480?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 <p align="center">
+  <a href="mailto:chs.nadia@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-E75480?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://github.com/nadyacii">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="YOUR_KAGGLE_LINK">
-    <img src="https://img.shields.io/badge/Kaggle-Connect-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a>
-  <a href="YOUR_TABLEAU_LINK">
-    <img src="https://img.shields.io/badge/Tableau%20Public-Explore-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   </a>
 </p>
 
