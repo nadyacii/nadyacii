@@ -1,5 +1,5 @@
 
-![Background_Profile](background_profile.png)
+![Background_Profile](banner_profile.png)
 
 <h2 align="center">Hello, I'm Nadia Chusnul Ikromah</h2>
 
