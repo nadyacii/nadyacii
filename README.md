@@ -331,17 +331,10 @@ As a Data Science Track Leader, I led class leaders and vice leaders through biw
   <a href="https://canva.link/tdaao7vj6lqvy4a">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-</p>
-
-<p align="center">
-  <a href="mailto:chs.nadia@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chs.nadia@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact-E75480?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/nadyacii">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
-
 
 ### 📬 Open For:
 
