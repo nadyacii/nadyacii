@@ -347,6 +347,14 @@ As a Data Science Track Leader, I led class leaders and vice leaders through biw
 
 </div>
 
+<div align="center">
+
+<a href="https://drive.google.com/drive/folders/1Y3J4vlScoyIfQ72iqKVrfdLKcjE_1YCt?usp=drive_link">
+  <b>📜 View All Certificates Here</b>
+</a>
+
+</div>
+
 <br>
 
 ## 📊 GitHub Statistics
