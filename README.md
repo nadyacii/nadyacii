@@ -207,19 +207,178 @@ Completed the **Maju Bareng AI** program with the course **“LLM-Based Tools an
 
 **Skills:** Generative AI • LLM • Gemini API • Data Science
 
+<br>
+
+<div align="center">
+
+## 🤝 Organizational Experience
+
+</div>
+
+### 💰 General Treasurer
+**Informatics Engineering Student Association | 2024 – 2025**  
+
+As General Treasurer, I am responsible for preparing annual budgets covering revenues and expenses for organizational programs. I coordinate with different divisions to discuss their budget and funding requirements, while managing and maintaining both digital and physical archives of organizational financial documents.
+
+**Skills:** Financial Management • Budgeting • Administration • Coordination
+
+---
+
+### 📊 Data Science Track Leader — MSIB Batch 7
+**Startup Campus | Sep 2024 – Dec 2024**
+
+As a Data Science Track Leader, I led class leaders and vice leaders through biweekly coordination meetings and was responsible for organizing meeting schedules, timetables, and agendas. I also communicated important updates, feedback, and suggestions to the Startup Campus team while monitoring participant progress, class dynamics, issues, and participants requiring special attention (MIA).
+
+**Skills:** Leadership • Communication • Coordination • Team Management
+
+<br>
+
+<div align="center">
+
+<div align="center">
+
+<br>
+
+## 🏆 Certifications & Credentials
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔬 Data Science Job Simulation
+**BCG X × Forage**
+
+📅 March 2025
+
+<a href="LINK_GOOGLE_DRIVE_SERTIFIKAT">
+  <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 📊 Data Analyst Bootcamp
+**KarirNex**
+
+📅 November 2025
+
+<a href="LINK_GOOGLE_DRIVE_SERTIFIKAT">
+  <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI Agent for Data Analysis
+**IBM SkillsBuild × Hacktiv8**
+
+📅 May 2026
+
+<a href="LINK_GOOGLE_DRIVE_SERTIFIKAT">
+  <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🚀 Maju Bareng AI
+**Hacktiv8 Indonesia**
+
+📅 June 2026
+
+<a href="LINK_GOOGLE_DRIVE_SERTIFIKAT">
+  <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+## 📊 GitHub Statistics
+
+<a href="https://github.com/nadyacii">
+  <img 
+    src="https://streak-stats.demolab.com/?user=nadyacii&theme=default&hide_border=true&background=FFF5F8&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=FF69B4&currStreakLabel=FF69B4&sideLabels=555555&dates=888888"
+    width="500"
+    alt="GitHub Streak"
+  />
+</a>
+
+</div>
+
+<div align="center">
+
+<br>
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nadiacikr">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-E75480?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nadyacii">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="YOUR_KAGGLE_LINK">
+    <img src="https://img.shields.io/badge/Kaggle-Connect-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <a href="YOUR_TABLEAU_LINK">
+    <img src="https://img.shields.io/badge/Tableau%20Public-Explore-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  </a>
+</p>
 
 
-<!--
-**nadyacii/nadyacii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Open For:
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td align="center" width="33%">
+      🚀<br>
+      <b>Projects</b><br><br>
+      <small>Data Projects & Collaboration</small>
+    </td>
+    <td align="center" width="33%">
+      💼<br>
+      <b>Opportunities</b><br><br>
+      <small>Full-time & Internship</small>
+    </td>
+    <td align="center" width="33%">
+      🤝<br>
+      <b>Networking</b><br><br>
+      <small>Data & Tech Community</small>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<hr>
+
+### 🌟 Thanks for visiting!
+
+Feel free to explore my repositories and projects.
+
+**Turning data into insights, one project at a time. 📊💗**
+
+</div>
