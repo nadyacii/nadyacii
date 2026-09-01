@@ -166,7 +166,7 @@ Completed an intensive Data Science program focused on **data analysis, data pre
 ---
 
 ### 🤖 Project-Based Virtual Internship — Data Scientist
-**Rakamin Academy | Feb 2025 – Mar 2025**
+**id/x partners x Rakamin Academy | Feb 2025 – Mar 2025**
 
 Completed a four-week project-based internship covering **business understanding, statistics, data analytics, SQL querying, data visualization, and machine learning**. Developed a **Loan Credit Risk Prediction** model using K-Nearest Neighbors (KNN) and achieved an **82% ROC AUC score**.
 
@@ -182,6 +182,17 @@ Supported administrative and operational activities within the **Infrastructure 
 Completed the internship from **27 January to 27 February 2025** with a **Good** performance result.
 
 **Skills:** Microsoft Excel • Data Management • Administration • Documentation
+
+---
+
+### 📊 Data Science Job Simulation
+**BCG X x Forage | Feb 2025 – Mar 2025**
+
+Developed a customer churn classification model for PowerCo using **Random Forest Classifier**. Conducted exploratory data analysis, feature engineering, data transformation, correlation analysis, and model evaluation to identify the key factors influencing customer churn.
+
+The analysis found that **net margin and 12-month energy consumption** were the most influential factors, while price sensitivity was not a significant driver of customer churn.
+
+**Skills:** Python • Pandas • NumPy • Scikit-learn • EDA • Feature Engineering • Random Forest
 
 ---
 
@@ -242,65 +253,96 @@ As a Data Science Track Leader, I led class leaders and vice leaders through biw
 
 <br>
 
+<div align="center">
+
 ## 🏆 Certifications & Credentials
 
 <table>
 <tr>
-<td align="center" width="50%">
 
-### 🔬 Data Science Job Simulation
-**BCG X × Forage**
+<td align="center" width="33%">
 
-📅 March 2025
+### Data Science: Greener Future with Data Driven Solution
+**Startup Campus**  
 
-<a href="LINK_GOOGLE_DRIVE_SERTIFIKAT">
+📅 Sep 2024 – Dec 2024
+
+<a href="https://drive.google.com/file/d/1xdyJCKSuxMW_gbGpCCwRNH-qFOI7du5p/view?usp=sharing">
   <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 📊 Data Analyst Bootcamp
-**KarirNex**
+### Data Scientist
+**id/x partners x Rakamin Academy** 
+
+📅 Feb 2025 – Mar 2025
+
+<a href="https://drive.google.com/file/d/13kaDJcilNt98q1Z7koG7uV-MswOvZxYp/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### Data Analyst Bootcamp
+**KarirNex**  
 
 📅 November 2025
 
-<a href="LINK_GOOGLE_DRIVE_SERTIFIKAT">
+<a href="https://drive.google.com/file/d/1gTBtwKJ04jj-jgIwr-YJN_ppFt5UwBfT/view?usp=sharing">
   <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="50%">
 
-### 🤖 AI Agent for Data Analysis
-**IBM SkillsBuild × Hacktiv8**
+<td align="center" width="33%">
+
+### Administrator Intern
+**PT Telkom Akses**  
+
+📅 Jan 2025 – Feb 2025
+
+<a href="https://drive.google.com/file/d/12tJrOaKXZt4u18e-v91EQQ6uUbzCQ1af/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### Data Science Track Leader
+**Startup Campus** 
+
+📅 Sep 2024 – Dec 2024
+
+<a href="https://drive.google.com/file/d/1vKKhCN0ht0d7LjmPsC6aZwNuTv47A9i0/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### AI Agent for Data Analysis
+**IBM SkillsBuild × Hacktiv8**  
 
 📅 May 2026
 
-<a href="LINK_GOOGLE_DRIVE_SERTIFIKAT">
+<a href="https://drive.google.com/file/d/1Ohhcqq0FSJUsiH0B9LtqV8IgWk-GIOsp/view?usp=sharing">
   <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="50%">
-
-### 🚀 Maju Bareng AI
-**Hacktiv8 Indonesia**
-
-📅 June 2026
-
-<a href="LINK_GOOGLE_DRIVE_SERTIFIKAT">
-  <img src="https://img.shields.io/badge/View%20Certificate-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white">
-</a>
-
-</td>
 </tr>
-
 </table>
 
 </div>
